@@ -2,7 +2,7 @@ import requests
 
 
 # get data from The Movie Database (TMDb)
-API_KEY = "5c9a2e64ad96d74cdffaf19a4fd60277"
+API_KEY = ""
 exit = False
 
 while not exit:
